@@ -165,7 +165,7 @@ Example outcomes from a regulated banking GenAI platform case study:
 - Balancing parallel execution with accountability and traceability
 
 ## AWS PartyRock Link
-AWS PartyRock App: https://partyrock.aws/u/your-handle/your-app
+AWS PartyRock App: https://partyrock.aws/u/natwar/pSWgyuTJe/new-app-pSWgyuTJe
 
 ## Certificate
 Udacity Certificate: [assets/certificates/udacity-certificate.pdf](assets/certificates/udacity-certificate.pdf)
